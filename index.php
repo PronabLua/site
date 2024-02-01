@@ -9,6 +9,6 @@ if (isset($_GET['key'])) {
         exit;
     } else {
         echo 'Key Is Wrong<br>Wait 3 Seconds';
-    }
+    } 
 }
 ?>
